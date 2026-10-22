@@ -35,20 +35,24 @@ const importantLinks: ImportantLinks = {
   <img width="48" height="48" alt="bizagi" src="https://github.com/user-attachments/assets/cd2fe633-992a-41af-82df-5772d247a170" />
 </p>
 
-<details>
+<details open>
   <summary><b>Estatísticas do Github</b></summary>
   <br />
 
   <p>
     <img height="170" alt="Estatísticas do GitHub do Natan"
-      src="https://github-readme-stats.vercel.app/api?username=natan7zz&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
+      src="https://github-readme-stats.vercel.app/api?username=natan7zz&show_icons=true&theme=tokyonight&hide_border=false" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="170" alt="Linguagens mais usadas"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan7zz&layout=compact&theme=tokyonight&langs_count=6" />
   </p>
 
   <p>
-    <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natan7zz&theme=tokyonight" />
+    <img alt="Sequência de commits"
+      src="https://streak-stats.demolab.com/?user=natan7zz&theme=tokyonight&hide_border=false" />
   </p>
-  
+
+  <p>
+    <img alt="Contribuições" src="https://ghchart.rshah.org/2563eb/natan7zz" />
+  </p>
 </details>
