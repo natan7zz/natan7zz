@@ -30,9 +30,9 @@ const importantLinks: ImportantLinks = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" alt="Trello" title="Trello" width="48" height="48" />
-  <img src="https://logo-teka.com/pt-br/canva/?utm_source=chatgpt.com" alt="Canva" title="Canva" width="48" height="48" />
+  <img width="48" height="48" alt="canva" src="https://github.com/user-attachments/assets/308beed0-8474-44ce-b368-665cbffe9700" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="48" height="48" />
-  <img width="500" height="500" alt="bizagi" src="https://github.com/user-attachments/assets/cd2fe633-992a-41af-82df-5772d247a170" />
+  <img width="48" height="48" alt="bizagi" src="https://github.com/user-attachments/assets/cd2fe633-992a-41af-82df-5772d247a170" />
 </p>
 
 <details open>
