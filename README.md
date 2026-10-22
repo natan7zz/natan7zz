@@ -2,7 +2,7 @@
 
 > Software Developer
 
-🔭 Minha jornada na tecnologia é movida pela curiosidade e pela paixão pelo desenvolvimento de software. Ao longo dos meus estudos, venho desenvolvendo projetos práticos, aprimorando minhas habilidades técnicas e explorando novas tecnologias. Atualmente, meu foco é o desenvolvimento de sistemas e automações de processos no ambiente de trabalho, mas estou desbravando as diversas áreas na Tecnologia como Dados e serviçoes de qualidade (QA), sempre aprimorando meus conhecimentos técnicos enquanto evoluo constantemente como desenvolvedor.
+🔭 Minha jornada na tecnologia é movida pela curiosidade e pela paixão pelo desenvolvimento de software. Ao longo dos meus estudos, venho desenvolvendo projetos práticos, aprimorando minhas habilidades técnicas e explorando novas tecnologias. Atualmente, meu foco é o desenvolvimento de sistemas e automações de processos no ambiente de trabalho, mas estou desbravando as diversas áreas na Tecnologia como Dados e Quality Assurance (QA), sempre aprimorando meus conhecimentos técnicos enquanto evoluo constantemente como desenvolvedor.
 
 ```ts
 const importantLinks: ImportantLinks = {
