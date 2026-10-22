@@ -32,7 +32,7 @@ const importantLinks: ImportantLinks = {
   <img src="https://cdn.simpleicons.org/trello/0052CC" alt="Trello" title="Trello" width="48" height="48" />
   <img src="https://logo-teka.com/pt-br/canva/?utm_source=chatgpt.com" alt="Canva" title="Canva" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="48" height="48" />
-  <img src="https://iconlogovector.com/logo/bizagi?utm_source=chatgpt.com" alt="Bizagi" title="Bizagi" height="32" />
+  <img width="500" height="500" alt="bizagi" src="https://github.com/user-attachments/assets/cd2fe633-992a-41af-82df-5772d247a170" />
 </p>
 
 <details open>
