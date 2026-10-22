@@ -35,15 +35,25 @@ const importantLinks: ImportantLinks = {
   <img width="48" height="48" alt="bizagi" src="https://github.com/user-attachments/assets/cd2fe633-992a-41af-82df-5772d247a170" />
 </p>
 
-<details open>
+<details>
   <summary><b>Estatísticas do Github</b></summary>
   <br />
 
   <p>
     <img height="170" alt="Estatísticas do GitHub do Natan"
-      src="https://github-readme-stats.vercel.app/api?username=Natan7z&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=natan7z&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="170" alt="Linguagens mais usadas"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natan7z&layout=compact&theme=tokyonight&langs_count=6" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan7z&layout=compact&theme=tokyonight&langs_count=6" />
+  </p>
+
+  <p>
+    <img alt="Sequência de commits"
+      src="https://streak-stats.demolab.com/?user=natan7z&theme=tokyonight&hide_border=false" />
+  </p>
+
+  <p>
+    <img alt="Gráfico de atividade"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=natan7z&theme=tokyo-night&hide_border=true" />
   </p>
 </details>
