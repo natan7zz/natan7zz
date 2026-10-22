@@ -6,7 +6,7 @@
 
 ```ts
 const importantLinks: ImportantLinks = {
-  website: 'https://natan7z.github.io/animationskids/',
+  website: 'portfolio-natan7zz.vercel.app',
   linkedin: 'https://www.linkedin.com/in/natan-sousa-248a152aa',
 }
 ```
