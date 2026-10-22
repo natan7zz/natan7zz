@@ -23,7 +23,7 @@ const importantLinks: ImportantLinks = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="48" height="48" />
+  <img width="48" height="48" alt="powershell" src="https://github.com/user-attachments/assets/757c03f2-fae7-4984-ab47-a0fc76bc054d" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
@@ -55,8 +55,4 @@ const importantLinks: ImportantLinks = {
     <img alt="Contribuições" src="https://ghchart.rshah.org/2563eb/natan7z" />
   </p>
   
-  <p>
-    <img alt="Gráfico de atividade"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=natan7z&theme=tokyo-night&hide_border=true" />
-  </p>
 </details>
