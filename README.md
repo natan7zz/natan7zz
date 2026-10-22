@@ -48,6 +48,6 @@ const importantLinks: ImportantLinks = {
   </p>
 
   <p>
-    <img alt="Contribuições" src="https://ghchart.rshah.org/2563eb/natan7z" />
+    <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natan7z&theme=tokyonight" />
   </p>
 </details>
