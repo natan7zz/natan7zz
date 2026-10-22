@@ -48,10 +48,13 @@ const importantLinks: ImportantLinks = {
   </p>
 
   <p>
-    <img alt="Sequência de commits"
-      src="https://streak-stats.demolab.com/?user=natan7z&theme=tokyonight&hide_border=false" />
+    <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natan7z&theme=tokyonight" />
   </p>
 
+  <p>
+    <img alt="Contribuições" src="https://ghchart.rshah.org/2563eb/natan7z" />
+  </p>
+  
   <p>
     <img alt="Gráfico de atividade"
       src="https://github-readme-activity-graph.vercel.app/graph?username=natan7z&theme=tokyo-night&hide_border=true" />
