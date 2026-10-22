@@ -35,7 +35,7 @@ const importantLinks: ImportantLinks = {
   <img width="48" height="48" alt="bizagi" src="https://github.com/user-attachments/assets/cd2fe633-992a-41af-82df-5772d247a170" />
 </p>
 
-<details open>
+<details>
   <summary><b>Estatísticas do Github</b></summary>
   <br />
 
@@ -48,6 +48,6 @@ const importantLinks: ImportantLinks = {
   </p>
 
   <p>
-    <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natan7z&theme=tokyonight" />
+    <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natan7zz&theme=tokyonight" />
   </p>
 </details>
