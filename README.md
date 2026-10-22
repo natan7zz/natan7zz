@@ -48,11 +48,6 @@ const importantLinks: ImportantLinks = {
   </p>
 
   <p>
-    <img alt="Sequência de commits"
-      src="https://streak-stats.demolab.com/?user=natan7zz&theme=tokyonight&hide_border=false" />
-  </p>
-
-  <p>
-    <img alt="Contribuições" src="https://ghchart.rshah.org/2563eb/natan7zz" />
+    <img alt="Contribuições" src="https://ghchart.rshah.org/2563eb/natan7z" />
   </p>
 </details>
