@@ -11,12 +11,10 @@ const importantLinks: ImportantLinks = {
 }
 ```
 
-💬 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/natan-sousa-248a152aa). Estou aberto a ajudar no que eu puder. Vamos conversar!
-<p>
-  <a href="https://www.linkedin.com/in/natan-sousa-248a152aa" target="_blank">
+💬 Você pode me encontrar no <a href="https://www.linkedin.com/in/natan-sousa-248a152aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
-  </a>
-</p>
+  </a>. Estou aberto a ajudar no que eu puder. Vamos conversar!
+
 ---
 
 ### 🛠️ Linguagens e Ferramentas:
