@@ -41,10 +41,10 @@ const importantLinks: ImportantLinks = {
 
   <p>
     <img height="170" alt="Estatísticas do GitHub do Natan"
-      src="https://github-readme-stats.vercel.app/api?username=natan7zz&show_icons=true&theme=tokyonight&hide_border=false" />
+      src="https://github-readme-stats-fast.vercel.app/api?username=natan7zz&show_icons=true&theme=tokyonight&hide_border=false" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="170" alt="Linguagens mais usadas"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=natan7zz&layout=compact&theme=tokyonight&langs_count=6" />
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=natan7zz&layout=compact&theme=tokyonight&langs_count=6" />
   </p>
 
   <p>
