@@ -41,14 +41,14 @@ const importantLinks: ImportantLinks = {
 
   <p>
     <img height="170" alt="Estatísticas do GitHub do Natan"
-      src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+      src="https://github-readme-stats-fast.vercel.app/api?username=natan7zz&show_icons=true&theme=tokyonight" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="170" alt="Linguagens mais usadas"
-      src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=natan7zz&layout=compact&theme=tokyonight&langs_count=6" />
   </p>
 
   <p>
     <img alt="Resumo do perfil"
-      src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natan7zz&theme=tokyonight" />
   </p>
 </details>
