@@ -1,0 +1,30 @@
+name: Gerar estatísticas
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite (UTC)
+  workflow_dispatch:       # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: natan7zz
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: atualiza estatísticas" || exit 0
+          git push
